@@ -1,17 +1,17 @@
 @font-face {
-  font-family: samsungsharpsans;
-  src:url("samsungsharpsans-blod.woff") format("woff");
+  font-family: font;
+  src:url("samsungsharpsans-blod");
 }
 
 body {
-  margin: 0px;
+  margin: auto px;
 }
 a {
     color: black;
     text-decoration-line: none;
 }
 h1 {
-  font-family:samsungsharpsans;
+  font-family: font;
   font-size: 45px;
   text-align: center;
   border-bottom: 1px solid gray;
